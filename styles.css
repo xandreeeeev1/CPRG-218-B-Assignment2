@@ -59,7 +59,7 @@ body {
 
   footer {
     background-color: #d9043d;
-    color: white;
+    color: black;
     text-align: center;
     padding: 1rem;
   }
@@ -83,7 +83,7 @@ body {
     aside {
       flex: 1;
       background-color: #97bf04;
-      color: white;
+      color: black;
       padding: 1rem;
       margin-left: 1rem;
       text-align: left;
@@ -117,6 +117,7 @@ body {
       max-width: 100%;
       height: auto;
       margin-right: 1rem;
+      
     }
   
     header h1 {
@@ -152,7 +153,7 @@ body {
   
     aside {
       background-color: #97bf04;
-      color: white;
+      color: black;
       padding: 1rem;
       margin-top: 1rem;
       text-align: center;
